@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **immanuelmundary09@gmail.com**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=imman-coder&column=-1&no-bg=true)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=imman-coder&column=-1&no-bg=true) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
